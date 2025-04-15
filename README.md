@@ -84,5 +84,3 @@ Dependency Injection: Injeção de dependências para acoplamento fraco entre co
 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias para o projeto.
-Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.Tentar novamenteClaude não tem acesso à internet. Os links fornecidos podem não estar precisos ou atualizados.
